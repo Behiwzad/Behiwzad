@@ -32,7 +32,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img height="38" width="38" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-web-token.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
   </div>
