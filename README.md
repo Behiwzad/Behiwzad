@@ -12,7 +12,7 @@
   <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="">
-  <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="30px" src="https://img.icons8.com/color/240/000000/discord-logo.png" />
+  <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" />
 </a>
 
 <br />
