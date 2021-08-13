@@ -16,8 +16,6 @@
 <br />
 
 
-
-
 **Languages and Tools:**  
 
 <div>
