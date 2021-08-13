@@ -18,7 +18,7 @@
 
 **Languages and Tools:**  
 
-<div background-color="red">
+<div style="background-color= red">
   
   <code>
     <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
