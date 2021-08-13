@@ -15,13 +15,15 @@
 <br />
 <br />
 
+https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png
+
 
 **Languages and Tools:**  
 
 <div>
   
   <code>
-    <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+    <img height="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
   </code>
 
   <code>
@@ -56,6 +58,5 @@
      <img height="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
     </code>
     
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-insides.png"/>
   
  <div/>
