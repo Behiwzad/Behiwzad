@@ -15,5 +15,5 @@
 **Languages and Tools:**  
 
 <code>
-  <img height="20" src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png">
 </code>
