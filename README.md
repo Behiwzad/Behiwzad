@@ -15,7 +15,7 @@
 <br />
 <br />
 
-https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png
+
 
 
 **Languages and Tools:**  
@@ -23,7 +23,7 @@ https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png
 <div>
   
   <code>
-    <img height="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   </code>
 
   <code>
@@ -49,14 +49,15 @@ https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png
   <code>
     <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   </code>
+  
+ <div/>
     
-   <code>
+    <div>
+     <code>
      <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png">
    </code>
     
     <code>
      <img height="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
-    </code>
-    
-  
- <div/>
+    </code> 
+     <div/>
