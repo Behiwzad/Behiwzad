@@ -50,7 +50,7 @@
     
   <code>
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png">
-   code/>
+  <code/>
    
    <code>
    <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
