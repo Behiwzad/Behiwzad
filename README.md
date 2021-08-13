@@ -12,3 +12,6 @@
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
+**Languages and Tools:**  
+
+<code><img height="20" <img src="https://img.icons8.com/color/48/000000/react-native.png"/>></code>
