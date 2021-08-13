@@ -15,7 +15,7 @@
 <br />
 <br />
 
-
+<img />
 
 **Languages and Tools:**  
 
@@ -46,7 +46,7 @@
   </code>
 
   <code>
-    <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png">
   </code>
     
    <code>
