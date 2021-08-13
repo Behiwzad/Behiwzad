@@ -23,7 +23,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from Ira
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/Behiwzad/Behiwzad/issues)
 
 
 **Languages and Tools:**  
