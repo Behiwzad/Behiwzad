@@ -15,17 +15,23 @@
 <br />
 <br />
 
+
+<img />
+
 **Languages and Tools:**  
 
 <code>
   <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 </code>
+
 <code>
   <img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
 </code>
+
 <code>
-  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
 </code>
+
 <code>
   <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png">
 </code>
