@@ -8,9 +8,6 @@
 <a href="">
   <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="">
-  <img align="left" alt="Behzad Rezazdeh | Steam" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" />
-</a>
 
 <br />
 <br />
