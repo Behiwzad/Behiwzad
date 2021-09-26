@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/behiwzad/">
   <img align="left" alt="Behzad Rezazdeh | Instagram" width="20px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
-<a href="">
+<a href="https://twitter.com/Behzad18645550?s=09">
   <img align="left" alt="Behzad Rezazdeh | Twitter" width="20px" src="https://image.flaticon.com/icons/png/512/174/174876.png" />
 </a>
 <a href="">
