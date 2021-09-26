@@ -11,9 +11,6 @@
 <a href="">
   <img align="left" alt="Behzad Rezazdeh | Steam" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198995358421/">
-  <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />
-</a>
 
 <br />
 <br />
