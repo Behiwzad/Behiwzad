@@ -6,9 +6,6 @@
   <img align="left" alt="Behzad Rezazdeh | Twitter" width="20px" src="https://image.flaticon.com/icons/png/512/174/174876.png" />
 </a>
 <a href="">
-  <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="20px" src="https://image.flaticon.com/icons/png/512/174/174872.png" />
-</a>
-<a href="">
   <img align="left" alt="Behzad Rezazdeh | CodeSandbox" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="">
