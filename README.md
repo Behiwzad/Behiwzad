@@ -11,7 +11,7 @@
 
 <br />
 <br />
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **Iran**.
 
 - 🌱 I’m currently learning ReactJs
