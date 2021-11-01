@@ -20,10 +20,9 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 
 **Languages and Tools:**  
 
-   <table>
-  <tr>
-  <td><img height="20" width="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></td>
-  <td><img height="20" width="20" src="https://img.icons8.com/color/48/000000/spring-logo.png"></td>
+  
+  <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></td>
+  <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"></td>
   <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></td>
   <td><img height="38" width="38" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></td>
   <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-web-token.png"></td>
@@ -42,5 +41,4 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
   <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/figma.png"></td>
   <td><img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/invision-studio-3.svg"></td>
   <td><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg"></td>
-  </tr>
-</table>
+  
