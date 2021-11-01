@@ -22,7 +22,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 
    <table>
   <tr>
-  <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></td>
+  <td valign="top"><img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></td>
   <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"></td>
   <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></td>
   <td><img height="38" width="38" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></td>
