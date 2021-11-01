@@ -20,7 +20,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 
 **Languages and Tools:**  
 
-  <div class="bg-blue-light>
+  <div class="bg-blue-light">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
