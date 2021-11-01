@@ -30,10 +30,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-web-token.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
   </div>
-  
-<div/>
-
- <div>
+ 
   
   <div>
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
