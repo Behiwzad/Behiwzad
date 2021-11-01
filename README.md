@@ -21,12 +21,12 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 **Languages and Tools:**  
 
   
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img height="38" width="38" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-web-token.png">
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
+  <img align=top height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align=top height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+  <img align=top height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+  <img align=top height="38" width="38" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align=top height="40" width="40" src="https://img.icons8.com/color/48/000000/java-web-token.png">
+  <img align=top height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png">
   
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png">
