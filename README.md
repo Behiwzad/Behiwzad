@@ -35,10 +35,5 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
   <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"></span>
   <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></span>
   
-  <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"></span>
-  <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></span>
-  <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"></span>
-  <span><img height="40" width="40" src="https://img.icons8.com/color/48/000000/figma.png"></span>
-  <span><img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/invision-studio-3.svg"></span>
-  <span><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg"></span>
+  
   
