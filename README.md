@@ -1,6 +1,5 @@
 ### Hi there, I'm Behiwzad! 👋
 <br />
-<br />
 
 Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **Iran**.
 
