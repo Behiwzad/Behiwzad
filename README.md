@@ -47,5 +47,4 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 ![Adobe_Premiere](https://img.shields.io/badge/-Adobe_Premiere-black?style=flat&logo=adobepremierepro)
 ![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-![Zeplin](https://img.shields.io/badge/-Zeplin-black?style=flat&logo=zeplin)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat&logo=canva)
