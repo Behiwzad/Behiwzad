@@ -21,7 +21,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux&logoColor=764abc)
 ![Framer-Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer)
 ![Material_Design](https://img.shields.io/badge/-Material_Design-black?style=flat&logo=materialdesign&logoColor=white)
-![Ant_Design](https://img.shields.io/badge/-Ant_Design-black?style=flat&logo=antdesign)
+![Ant_Design](https://img.shields.io/badge/-Ant_Design-black?style=flat&logo=antdesign&logoColor=f74455)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
