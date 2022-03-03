@@ -1,3 +1,5 @@
+<img width="full" src="https://media.giphy.com/media/2Y8Iq3xe121Ba3hUAM/giphy.gif" />
+
 ### Hi there, I'm Behiwzad! 👋
 
 Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **Iran**.
