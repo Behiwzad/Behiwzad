@@ -2,10 +2,10 @@
 
 Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **Iran**.
 
-- 🌱 I’m currently learning Express
+- 🌱 I’m currently learning Docker
 - 💬 Ask me about anything [here](https://github.com/Behiwzad/Behiwzad/issues)
 
-## ⚡ Technologies
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
