@@ -12,6 +12,7 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
+![Telegram](https://img.shields.io/badge/-Telegram_Bot-black?style=flat&logo=Telegram)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
