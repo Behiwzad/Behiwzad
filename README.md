@@ -19,10 +19,11 @@ Hi, I'm Behzad Rezazadeh, a passionate self-taught Full Stack developer from **I
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=swagger)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-black?style=flat&logo=yarn)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)MUI
 ![NextJS](https://img.shields.io/badge/-Next_JS-black?style=flat&logo=Next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux&logoColor=764abc)
 ![Framer-Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer)
+![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=mui)
 ![Material_Design](https://img.shields.io/badge/-Material_Design-black?style=flat&logo=materialdesign&logoColor=white)
 ![Ant_Design](https://img.shields.io/badge/-Ant_Design-black?style=flat&logo=antdesign&logoColor=f74455)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=Netlify)
